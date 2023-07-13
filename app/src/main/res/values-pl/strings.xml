@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="action_city_list">Zapisane</string>
+    <string name="action_weather">Pogoda</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="search_bar_hint">Szukaj miasta</string>
+    <string name="weather_icon">Ikona pogody</string>
+    <string name="refresh_icon">Odśwież</string>
+    <string name="current_weather_icon">Ikona aktualna pogoda</string>
+    <string name="feels_like">Temperatura odczuwalna</string>
+    <string name="wind">Wiatr</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="pressure">Ciśnienie powietrza</string>
+    <string name="visibility">Widoczność</string>
+    <string name="wind_direction">Kierunek wiatru</string>
+    <string name="temperature_unit">Jednostka temperatury</string>
+    <string name="refresh_time">Czas do odświeżenia</string>
+    <string name="temperature_unit_details">Wybierz jednostkę, w jakiej będzie wyświetlana temperatura w aplikacji</string>
+    <string name="refresh_time_details">Wybierz po jakim czasie aplikacja ma automatycznie odświeżać dane</string>
+    <string name="empty_city_list">Lista miast jest pusta</string>
+    <string name="refresh_status_failed">Nie udało się odświeżyć danych</string>
+    <string name="internet_status">Brak dostępu do internetu</string>
+    <string name="confirm_remove_city_dialog_title">Usuń miasto</string>
+    <string name="confirm_remove_city_dialog_message">Czy na pewno chcesz usunąć to miasto?</string>
+    <string name="confirm_remove_city_dialog_positive">Usuń</string>
+    <string name="confirm_remove_city_dialog_negative">Anuluj</string>
+</resources>
